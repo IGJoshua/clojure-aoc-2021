@@ -4,3 +4,6 @@
 
 (t/deftest part-1
   (t/is (= 1754 (sut/part-1))))
+
+(t/deftest part-2
+  (t/is (= 1789 (sut/part-2))))
